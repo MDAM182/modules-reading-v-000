@@ -10,4 +10,3 @@ require_relative './dance_module.rb'
     @name = name
   end
 end
-
